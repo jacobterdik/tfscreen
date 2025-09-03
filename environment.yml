@@ -1,0 +1,15 @@
+name: tfscreen
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - openpyxl
+  - matplotlib
+  - tqdm
+  - statsmodels
+  - eee
+  - dataprob
+  - PyYAML
